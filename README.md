@@ -1,3 +1,4 @@
+<html>
 <head>
 <title>Welcome to my website!</title>
 </head>
@@ -9,5 +10,6 @@ Windows 11:  [Click here](yanmaker.github.io/windows11/)
 
 Codes: [Click here](yanmaker.github.io/codes/)
 
-My is-a-dev website: [Click here](yanmaker.is-a.dev)
-</body>
+<p>My is-a-dev website: <link src="yanmaker.is-a.dev">Click here<--</link></p>
+    </body>
+</html>
