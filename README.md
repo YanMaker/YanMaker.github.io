@@ -1,11 +1,7 @@
-<html>
-<body>
-<h1>Directory<h1>
+# Directory
 
-Windows 11:  [Click here](yanmaker.github.io/windows11/)
+Windows 11:  [Click here](https://yanmaker.github.io/windows11/)
 
-Codes: [Click here](yanmaker.github.io/codes/)
+Codes: [Click here](https://yanmaker.github.io/codes/)
 
-My is-a-dev website: [Click here](yanmaker.is-a.dev)
-</body>
-</html>
+My is-a-dev website: [Click here](https://yanmaker.is-a.dev)
