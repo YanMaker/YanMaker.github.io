@@ -11,3 +11,11 @@ h1{
 footer{
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
+a:link{
+    color: rgb(0, 110, 255);
+}
+
+a:visited{
+    color: rgb(0, 110, 255);
+}
