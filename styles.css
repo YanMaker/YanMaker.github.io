@@ -10,6 +10,8 @@ h1{
 
 footer{
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: fixed;
+    bottom: 0;
 }
 
 a:link{
