@@ -1,12 +1,17 @@
 html{
     background-color: lightgray;
-
 }
 
 body{
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
+}
+
+img{
+    width: 500px;
+    border-radius: 100px;
+    padding: 25px;
 }
 
 h1{
