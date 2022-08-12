@@ -25,10 +25,12 @@ h1{
     border-right: 1px solid #000900;
     border-left: 1px solid #000900;
     position: absolute;
+    top: 0px;
+    bottom: 0px;
     right: 25%;
     left: 25%;
     width: 50%;
-    height: 98%;
+    height: 100%;
 }
 
 #footer{
