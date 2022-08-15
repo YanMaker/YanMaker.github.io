@@ -35,6 +35,7 @@ a{
     left: 25%;
     width: 50%;
     height: 100%;
+    z-index: 0;
 }
 
 #footer{
